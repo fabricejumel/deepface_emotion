@@ -11,5 +11,5 @@ source venv_deepface_emotion_venv/bin/activate
 
 installation des paquets
 ```bash
-pip -r requirements_deepface.txt
+pip install -r requirements_deepface.txt
 ```
